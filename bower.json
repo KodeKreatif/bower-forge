@@ -1,6 +1,6 @@
 {
   "name": "bower-forge",
-  "version": "0.6.26",
+  "version": "bower-forge-0.6.26",
   "description": "JavaScript implementations of network transports, cryptography, ciphers, PKI, message digests, and various utilities.",
   "authors": [
     "Digital Bazaar, Inc."
